@@ -1,0 +1,8 @@
+# bloque l'indexation des images pour les robots
+User-agent: *
+Disallow: /*.jpg$
+Disallow: /*.png$
+Disallow: /*.gif$
+Disallow: /assets/
+Allow: /
+https://mohamedamine1.github.io/MyCv/sitemap.xml
